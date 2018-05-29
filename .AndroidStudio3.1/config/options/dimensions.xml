@@ -1,0 +1,20 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="683" y="300" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="359" y="185" />
+    <location key="#Servers.0.0.1366.768" x="397" y="126" />
+    <location key="SettingsEditor.0.0.1366.768" x="162" y="7" />
+    <location key="AndroidThemeDialog.0.0.1366.768" x="263" y="67" />
+    <location key="Downloadable.Font.Dialog.Size.0.0.1366.768" x="363" y="117" />
+    <location key="AndroidCreateXmlResourceDialog.0.0.1366.768" x="541" y="155" />
+    <location key="AndroidCreateResourceFileDialog.0.0.1366.768" x="263" y="117" />
+    <location key="deploy.picker.dialog.0.0.1366.768" x="363" y="117" />
+    <location key="CommitChangelistDialog2.0.0.1366.768" x="374" y="49" />
+    <size key="AndroidCreateXmlResourceDialog.0.0.1366.768" width="284" height="475" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1322" height="139" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1322" height="139" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1322" height="139" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1322" height="139" />
+    <size key="CommitChangelistDialog2.0.0.1366.768" width="752" height="628" />
+  </component>
+</application>

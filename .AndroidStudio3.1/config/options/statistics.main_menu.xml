@@ -1,0 +1,15 @@
+<application>
+  <component name="MainMenuCollector">
+    <counts>
+      <entry path="File -&gt; New -&gt; New Project..." count="4" />
+      <entry path="File -&gt; Settings Repository…" count="1" />
+      <entry path="File -&gt; Settings..." count="1" />
+      <entry path="Help -&gt; Android Studio Help" count="1" />
+      <entry path="Help -&gt; Check for Updates..." count="1" />
+      <entry path="Tools -&gt; Kotlin -&gt; Configure Kotlin Plugin Updates" count="1" />
+      <entry path="Tools -&gt; Tasks &amp; Contexts -&gt; Configure Servers..." count="1" />
+      <entry path="VCS -&gt; Commit" count="1" />
+      <entry path="VCS -&gt; Enable Version Control Integration..." count="2" />
+    </counts>
+  </component>
+</application>
