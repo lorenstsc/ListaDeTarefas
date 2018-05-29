@@ -44,7 +44,7 @@
     <property name="android.resource_dialog_splitter" value="0.49882352" />
     <property name="NlScreenMode" value="BOTH" />
     <property name="decompiler.legal.notice.accepted" value="true" />
-    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.75551105" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.76352704" />
     <property name="PLUGIN_FILTER" value="git" />
   </component>
 </application>
