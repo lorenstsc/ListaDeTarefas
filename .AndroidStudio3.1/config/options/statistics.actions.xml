@@ -5,11 +5,11 @@
       <entry action="$Paste" count="2" />
       <entry action="Android.RunAndroidSdkManager" count="1" />
       <entry action="CheckForUpdate" count="1" />
-      <entry action="CheckinProject" count="4" />
+      <entry action="CheckinProject" count="5" />
       <entry action="ConfigureIcs" count="1" />
       <entry action="Convert template to concatenated string" count="1" />
       <entry action="CreateResourceBundle" count="1" />
-      <entry action="EditorBackSpace" count="698" />
+      <entry action="EditorBackSpace" count="700" />
       <entry action="EditorChooseLookupItem" count="77" />
       <entry action="EditorCopy" count="13" />
       <entry action="EditorDelete" count="1" />
