@@ -5,11 +5,11 @@
       <entry action="$Paste" count="2" />
       <entry action="Android.RunAndroidSdkManager" count="1" />
       <entry action="CheckForUpdate" count="1" />
-      <entry action="CheckinProject" count="2" />
+      <entry action="CheckinProject" count="3" />
       <entry action="ConfigureIcs" count="1" />
       <entry action="Convert template to concatenated string" count="1" />
       <entry action="CreateResourceBundle" count="1" />
-      <entry action="EditorBackSpace" count="697" />
+      <entry action="EditorBackSpace" count="698" />
       <entry action="EditorChooseLookupItem" count="77" />
       <entry action="EditorCopy" count="13" />
       <entry action="EditorDelete" count="1" />
@@ -19,7 +19,7 @@
       <entry action="EditorNextWordWithSelection" count="1" />
       <entry action="EditorPaste" count="31" />
       <entry action="EditorPreviousWordWithSelection" count="2" />
-      <entry action="EditorRight" count="244" />
+      <entry action="EditorRight" count="245" />
       <entry action="EditorUp" count="61" />
       <entry action="ExternalSystem.RefreshAllProjects" count="1" />
       <entry action="Git.Add" count="1" />
@@ -32,9 +32,10 @@
       <entry action="NewProject" count="4" />
       <entry action="Parameter Name Hints" count="1" />
       <entry action="RevealIn" count="3" />
-      <entry action="Run" count="58" />
+      <entry action="Run" count="59" />
       <entry action="ShowSettings" count="1" />
       <entry action="Start.Use.Vcs" count="2" />
+      <entry action="Vcs.QuickListPopupAction" count="2" />
       <entry action="tasks.configure.servers" count="1" />
     </counts>
   </component>

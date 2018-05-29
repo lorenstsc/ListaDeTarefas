@@ -41,7 +41,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         override fun getItem(position: Int): Any {
-            return "NADA"
+            return "NADINHA"
         }
 
         override fun getView(position: Int, convertView: View?, viewGroup: ViewGroup?): View {

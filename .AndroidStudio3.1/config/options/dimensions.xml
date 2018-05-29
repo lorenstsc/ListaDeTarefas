@@ -10,11 +10,14 @@
     <location key="AndroidCreateResourceFileDialog.0.0.1366.768" x="263" y="117" />
     <location key="deploy.picker.dialog.0.0.1366.768" x="363" y="117" />
     <location key="CommitChangelistDialog2.0.0.1366.768" x="374" y="49" />
+    <location key="Vcs.Push.Dialog.0.0.1366.768" x="359" y="99" />
+    <location key="ProcessPopupWindow.0.0.1366.768" x="966" y="350" />
     <size key="AndroidCreateXmlResourceDialog.0.0.1366.768" width="284" height="475" />
     <size key="GridCell.Tab.0.left.0.0.1366.768" width="1322" height="139" />
     <size key="GridCell.Tab.0.center.0.0.1366.768" width="1322" height="139" />
     <size key="GridCell.Tab.0.right.0.0.1366.768" width="1322" height="139" />
     <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1322" height="139" />
     <size key="CommitChangelistDialog2.0.0.1366.768" width="752" height="628" />
+    <size key="ProcessPopupWindow.0.0.1366.768" width="400" height="412" />
   </component>
 </application>
